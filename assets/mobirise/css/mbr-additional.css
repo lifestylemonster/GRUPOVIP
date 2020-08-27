@@ -1111,7 +1111,7 @@ section.lazy-placeholder:after {
   color: #ffffff !important;
 }
 .cid-s8SbJnY5ft {
-  padding-top: 75px;
+  padding-top: 90px;
   padding-bottom: 0px;
   background-color: #000000;
 }
@@ -1127,7 +1127,7 @@ section.lazy-placeholder:after {
 }
 .cid-s8SbJnY5ft .mbr-section-subtitle {
   color: #ffffff;
-  text-align: right;
+  text-align: center;
 }
 .cid-s8SbJnY5ft .progress_value {
   position: relative;
@@ -1255,82 +1255,6 @@ section.lazy-placeholder:after {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #000000;
-}
-.cid-s8Se7PFtLr {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-s8Se7PFtLr .progress {
-  width: 100%;
-}
-.cid-s8Se7PFtLr progress {
-  height: 8px;
-}
-.cid-s8Se7PFtLr h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-s8Se7PFtLr .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s8Se7PFtLr .progress_value {
-  position: relative;
-}
-.cid-s8Se7PFtLr .progress_elements {
-  margin: 0 auto;
-}
-.cid-s8Se7PFtLr .title-wrap {
-  display: flex;
-  justify-content: space-between;
-  -webkit-justify-content: space-between;
-}
-.cid-s8Se7PFtLr .progress1 .progressbar-number:before,
-.cid-s8Se7PFtLr .progress2 .progressbar-number:before,
-.cid-s8Se7PFtLr .progress3 .progressbar-number:before,
-.cid-s8Se7PFtLr .progress4 .progressbar-number:before {
-  position: absolute;
-  right: 15px;
-  top: 0;
-}
-.cid-s8Se7PFtLr progress[value]::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-s8Se7PFtLr progress::-webkit-progress-value {
-  background: #78662a;
-}
-.cid-s8Se7PFtLr progress[value]::-moz-progress-bar {
-  background: #78662a;
-}
-.cid-s8Se7PFtLr progress::-ms-fill {
-  background: #78662a;
-}
-.cid-s8Se7PFtLr .progress1 .progressbar-number:before {
-  content: '70';
-}
-.cid-s8Se7PFtLr .progress2 .progressbar-number:before {
-  content: '80';
-}
-.cid-s8Se7PFtLr .progress3 .progressbar-number:before {
-  content: '90';
-}
-.cid-s8Se7PFtLr .progress4 .progressbar-number:before {
-  content: '100';
-}
-.cid-s8Se7PFtLr .progress-primary {
-  background: rgba(206, 206, 206, 0.4);
-  border: none;
-  outline: none;
-}
-.cid-s8Se7PFtLr .progress-primary::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-s8Se7PFtLr .progress_value span {
-  padding-left: 30px;
-}
-.cid-s8Se7PFtLr .progressbar-title p,
-.cid-s8Se7PFtLr .progress_value {
-  color: #ffffff;
 }
 .cid-s8AV0CeIc2 {
   padding-top: 45px;
