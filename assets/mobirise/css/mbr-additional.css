@@ -1359,6 +1359,9 @@ section.lazy-placeholder:after {
   width: 25px;
   height: 25px;
   border-radius: 50%;
+  background: none;
+  border: 1px solid #78662a;
+  color: #78662a;
   content: '✓';
 }
 .cid-s942Tk5dyu .mbr-text UL {
