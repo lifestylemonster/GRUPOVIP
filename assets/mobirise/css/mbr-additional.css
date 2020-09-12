@@ -710,32 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-saiINVbLmj {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-saiINVbLmj .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-saiINVbLmj .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-saiINVbLmj .media-container-row {
-    flex-wrap: wrap-reverse;
-    -webkit-flex-wrap: wrap-reverse;
-  }
-  .cid-saiINVbLmj .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-saiINVbLmj .mbr-text {
-  color: #767676;
-}
 .cid-s8jQYpoDcE .navbar {
   background: #000000;
   transition: none;
