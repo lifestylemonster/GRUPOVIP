@@ -1201,6 +1201,52 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-saA9glbg4U {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-saA9glbg4U h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-saA9glbg4U p {
+  color: #767676;
+  text-align: left;
+}
+.cid-saA9glbg4U .card-img {
+  text-align: left;
+  padding-right: 30px;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  width: auto;
+}
+.cid-saA9glbg4U .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-saA9glbg4U .card-title {
+  margin-bottom: 0;
+}
+.cid-saA9glbg4U .mbr-crt-title {
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+}
+.cid-saA9glbg4U .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+@media (max-width: 300px) {
+  .cid-saA9glbg4U .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-saA9glbg4U .card-title,
+.cid-saA9glbg4U .card-img {
+  text-align: left;
+  color: #ffffff;
+}
 .cid-s8NFfVJNQo {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1208,7 +1254,7 @@ section.lazy-placeholder:after {
 }
 .cid-s8AmAPtLoJ {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/grupovip-464x318.jpg");
 }
 .cid-s8AmAPtLoJ .mbr-section-subtitle {
